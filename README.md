@@ -21,6 +21,9 @@ Then replace the current `h1` with the Renovate Issue/Discussion number.
   - Update dependency `import-in-the-middle` to v2
   - **Update dependency `@sentry/core` to v10.28.0**
 
+Observation: `@sentry/core` is on v10.27.0, it has a newer release v10.28.0 that does not meet the 7 days `minimumReleaseAge`, but does not appear on the Dependency Dashboard because it's in a group.
+For `import-in-the-middle` there is a newer release v1.15.0 (and v2) that does not meet the 3 months `minimumReleaseAge`, but appears on the Dependency Dashboard as it's not in a group.
+
 ## Link to the Renovate issue or Discussion
 
 Put your link to the Renovate issue or Discussion here.
