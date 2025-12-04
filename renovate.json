@@ -1,1 +1,14 @@
-{}
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "packageRules": [
+    {
+      "matchPackageNames": ["@opentelemetry/semantic-conventions", "@sentry/core"],
+      "groupName": "grouped",
+      "minimumReleaseAge": "7 days"
+    },
+    {
+      "matchPackageNames": ["import-in-the-middle"],
+      "minimumReleaseAge": "3 months"
+    }
+  ]
+}

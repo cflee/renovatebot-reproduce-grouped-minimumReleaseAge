@@ -1,0 +1,12 @@
+{
+  "name": "renovatebot-reproduce-slash-glob-match",
+  "version": "0.0.0",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "@opentelemetry/semantic-conventions": "^1.37.0",
+    "@sentry/core": "^10.27.0",
+    "import-in-the-middle": "^1.14.2"
+  }
+}
