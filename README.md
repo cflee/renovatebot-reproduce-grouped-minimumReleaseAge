@@ -1,8 +1,4 @@
-# minimal-reproduction-template
-
-First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
-
-Then replace the current `h1` with the Renovate Issue/Discussion number.
+# 39778
 
 ## Current behavior
 
@@ -26,4 +22,4 @@ For `import-in-the-middle` there is a newer release v1.15.0 (and v2) that does n
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+https://github.com/renovatebot/renovate/discussions/39778
