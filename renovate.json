@@ -1,5 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [":dependencyDashboard"],
   "packageRules": [
     {
       "matchPackageNames": ["@opentelemetry/semantic-conventions", "@sentry/core"],
