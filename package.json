@@ -7,6 +7,6 @@
   "dependencies": {
     "@opentelemetry/semantic-conventions": "^1.37.0",
     "@sentry/core": "^10.27.0",
-    "import-in-the-middle": "^1.14.2"
+    "import-in-the-middle": "^3.0.0"
   }
 }
